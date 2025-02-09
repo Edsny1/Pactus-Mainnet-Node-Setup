@@ -17,7 +17,7 @@ cd pactus-cli_1.7.1
 
 
 
-📌Servisli📌
+📌Services📌
 ```
 cd
 systemctl stop pactusd
